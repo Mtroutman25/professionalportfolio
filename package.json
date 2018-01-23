@@ -1,0 +1,26 @@
+{
+  "name": "professionalportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for Michael Troutman",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mtroutman25/professionalportfolio.git"
+  },
+  "author": "Michael Troutman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mtroutman25/professionalportfolio/issues"
+  },
+  "homepage": "https://github.com/Mtroutman25/professionalportfolio#readme"
+}
